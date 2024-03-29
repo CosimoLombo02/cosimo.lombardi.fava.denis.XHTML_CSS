@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head><title>Recensioni</title>
+        <link rel="stylesheet" href="foglioDiStile.css " type="text/css" /></head>
+    <body class="blackBody">
+        <div class="center"><a href="homepage.xhtml.html"><img class="logo" src="europark.PNG" alt="Europark logo" /></a></div>
+        <div class="center">
+            <form action="">
+                <div>
+                <label> Nome:</label>
+                <input type="text" name="name" /><br /><br />
+                <label>Cognome:</label>
+                <input type="text" name="surname" /><br /><br />
+                <label>Sesso:</label>
+                <input type="radio" name="sex" id="male" value="male" />
+                <label>Uomo</label>
+                <input type="radio" name="sex" id="female" value="female" />
+                <label>Donna</label> <br /><br />
+                <label>Paese: </label>
+                <select name="country" id="country">
+                    <option>Seleziona un paese</option>
+                    <option value="italia">Italia
+                    </option>
+                    <option value="UK">UK</option>
+                    <option value="Ireland">Ireland</option>
+                    <option value="Germany">Germany</option>
+                    <option value="Denmark">Denmark</option>
+                    <option value="Holland">Holland</option>
+                    <option value="usa">USA</option>
+                    <option value="australia">Australia</option>
+                </select><br /><br />
+                <label>Recensione:</label><br />
+                <textarea name="message" id="message" cols="30" rows="4"></textarea><br /><br />
+                <input type="checkbox" name="conferma" id="conferma" />
+                <label>Invia?</label><br /><br />
+                <input type="submit" value="Submit" />
+            </div>
+            </form>
+        </div>
+        <div class="footer">&copy; Centro Caravan Europark 2023</div>
+        
+    </body>
+</html>
