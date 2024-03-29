@@ -133,6 +133,9 @@ div.ButtonContainer {
     margin : 1%;
     left : 44%;
     }
+    .simpleButton1:hover{
+      cursor:pointer;
+    }
     button.hpButton {
     background-color : #04AA6D;
     position : fixed;
