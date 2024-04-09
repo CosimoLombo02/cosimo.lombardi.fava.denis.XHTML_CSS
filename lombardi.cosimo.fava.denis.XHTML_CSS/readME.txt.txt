@@ -1,5 +1,23 @@
-Il Gruppo Ë composto da: LOMBARDI COSIMO - FAVA DENIS
+Il Gruppo √® composto da: LOMBARDI COSIMO - FAVA DENIS
 LINK GIT REPOSITORY: https://github.com/CosimoLombo02/cosimo.lombardi.fava.denis.XHTML_CSS.git
 https://github.com/Denisfava02/cosimo.lombardi.fava.denis.XHTML_CSS
-Questo Homework riguarda la creazione di un piccolo sito web per un rimessaggio realmente esistente a Terracina, Ë stato realizzato un unico file css chiamato 'foglioDiStile' dove 
-ogni pagina fa riferimento, all'intero di questo file ci sono anche delle classi non pi˘ usate poichÈ sostituite da altre. In tutte le pagine tranne la homepage il logo fa da link per la homepage. I form sono stati pensati per un futuro sviluppo di questo primo homework aggiungendo gradualmente php,xml,mysql per i futuri homework. Il sito Ë stato ideato con le seguenti idee alla base, ovvero quella della semplicit‡ e funzionalit‡, lo slider nella homepage Ë stato creato utilizzando esclusivamente xhtml e css. 
+
+***ah ma i ilink ci sono tutti e due***
+
+Questo Homework riguarda la creazione di un piccolo sito web per un rimessaggio realmente esistente a Terracina, 
+***ok ... punto***
+
+√® stato realizzato un unico file css chiamato 'foglioDiStile' dove ogni pagina fa riferimento, 
+***Abbiamo realizzato ... cui ogni pagina ...***
+
+all'intero 
+***int***
+
+di questo file ci sono anche delle classi non pi√π usate poich√© sostituite da altre. 
+***E perche' sono rimaste?***
+
+In tutte le pagine tranne la homepage il logo fa da link per la homepage. 
+***forse ho capito***
+
+I form sono stati pensati per un futuro sviluppo di questo primo homework aggiungendo gradualmente php,xml,mysql per i futuri homework. Il sito √® stato ideato con le seguenti idee alla base, ovvero quella della semplicit√† e funzionalit√†, lo slider nella homepage √® stato creato utilizzando esclusivamente xhtml e css. 
+***yes, va bene***
