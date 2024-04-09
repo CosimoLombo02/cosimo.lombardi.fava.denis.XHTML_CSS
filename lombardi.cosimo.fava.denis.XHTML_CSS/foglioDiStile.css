@@ -60,36 +60,21 @@ div.ButtonContainer {
     .simpleButton:hover{
       cursor:pointer;
     }
-    div.container { /*just a try, not used*/
-    column-count : 2;
-    }
+    
     div.colonnaGrande {
     float : left;
     width : 40%;
     margin : 5%;
     color : white;
     }
-    div.colonnaGrande1 { /*not used*/
-    float : left;
-    width : 40%;
-    margin : 5%;
-    text-align : justify;
-    color : white;
-    }
+   
     p.testoSemplice {
     text-align : justify;
     font-family : Arial, Helvetica, sans-serif;
     font-style : normal;
     color : white;
     }
-    div.testo { /*not used*/
-    position : absolute;
-    border : ridge 10px;
-    padding : 0%;
-    overflow : auto;
-    background : yellow;
-    text-decoration-color : black;
-    }
+    
     h1.h {
     position : relative;
     right : -22.5%;
@@ -195,14 +180,6 @@ div.ButtonContainer {
 
     a.customLink{
         color:white;
-    }
-
-    p.underline{ /*not used*/
-        color:white;
-        text-decoration: underline;
-        text-decoration-color: white;
-        text-align: center;
-        
     }
 
     p#simple{
