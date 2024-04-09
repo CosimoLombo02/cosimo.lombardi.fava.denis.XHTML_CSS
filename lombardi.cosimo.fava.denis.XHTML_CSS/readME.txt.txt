@@ -1,4 +1,5 @@
 Il Gruppo è composto da: LOMBARDI COSIMO - FAVA DENIS
 LINK GIT REPOSITORY: https://github.com/CosimoLombo02/cosimo.lombardi.fava.denis.XHTML_CSS.git
+https://github.com/Denisfava02/cosimo.lombardi.fava.denis.XHTML_CSS
 Questo Homework riguarda la creazione di un piccolo sito web per un rimessaggio realmente esistente a Terracina, è stato realizzato un unico file css chiamato 'foglioDiStile' dove 
 ogni pagina fa riferimento, all'intero di questo file ci sono anche delle classi non più usate poiché sostituite da altre. In tutte le pagine tranne la homepage il logo fa da link per la homepage. I form sono stati pensati per un futuro sviluppo di questo primo homework aggiungendo gradualmente php,xml,mysql per i futuri homework. Il sito è stato ideato con le seguenti idee alla base, ovvero quella della semplicità e funzionalità, lo slider nella homepage è stato creato utilizzando esclusivamente xhtml e css. 
